@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"Sprite6","path":"sprites/Sprite6/Sprite6.yy",},"order":5,},
+    {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},"order":5,},
     {"id":{"name":"oRmHitbox","path":"objects/oRmHitbox/oRmHitbox.yy",},"order":2,},
     {"id":{"name":"sFlappyMode","path":"sprites/sFlappyMode/sFlappyMode.yy",},"order":3,},
     {"id":{"name":"sRmHitbox","path":"sprites/sRmHitbox/sRmHitbox.yy",},"order":1,},
@@ -14,6 +14,7 @@
     {"id":{"name":"oFlappyMode","path":"objects/oFlappyMode/oFlappyMode.yy",},"order":5,},
     {"id":{"name":"oEffect","path":"objects/oEffect/oEffect.yy",},"order":1,},
     {"id":{"name":"oBg","path":"objects/oBg/oBg.yy",},"order":0,},
+    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":7,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
