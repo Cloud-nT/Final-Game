@@ -1,3 +1,4 @@
+cant = false;
 count = 40;
 TxtY = 0;
 cOpacity = 0;

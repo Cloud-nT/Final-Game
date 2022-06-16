@@ -4,7 +4,7 @@ if(cOpacity < 1){
 }
 
 //T H E  C O U N T E R
-if(mouse_check_button_pressed(mb_any)){
+if(mouse_check_button_pressed(mb_any)) && (cant == false){
 	count += 1;
 }
 //game end
